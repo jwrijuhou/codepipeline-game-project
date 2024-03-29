@@ -1,6 +1,6 @@
 body {
     font-family: 'Roboto', sans-serif; 
-    background-color: #282c34; 
+    background-color: #5e84ce; 
     color: #ffffff; 
     text-align: center;
     margin: 0;
@@ -11,7 +11,7 @@ body {
     width: auto;
     margin: 40px auto;
     padding: 30px;
-    background-color: #3c404d; 
+    background-color: #8c8e96; 
     box-shadow: 0 10px 20px rgba(0, 0, 0, 0.25); 
     border-radius: 15px; 
 }
@@ -60,7 +60,7 @@ h1 {
 }
 
 #start-game {
-    background-color: #4caf50;
+    background-color: #4a854c;
     color: white;
     padding: 12px 24px;
     border: none;
@@ -71,6 +71,6 @@ h1 {
 }
 
 #start-game:hover {
-    background-color: #43a047; /* Darker on hover */
+    background-color: #4e7d51; /* Darker on hover */
     transform: scale(1.05); /* Slightly enlarges on hover */
 }
